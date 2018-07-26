@@ -14,4 +14,10 @@ function logWhisper(string){
   console.log(string.toLowerCase())
 }
 
-if (string ===)
+if (string === string.toLowerCase()){
+  console.log("I can't hear you!")
+}
+else (string === string.toUpperCase()){
+  console.log('YES INDEED!')
+}
+
